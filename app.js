@@ -1,18 +1,18 @@
 import rsvpConfig from './rsvp-config.js'
 
 const weddingConfig = {
-  groom: '新郎姓名',
-  bride: '新娘姓名',
-  groomLatin: 'GROOM',
-  brideLatin: 'BRIDE',
-  weddingDate: '2030-10-01T00:00:00+08:00',
+  groom: '王皓洋',
+  bride: '孙玉莹',
+  groomLatin: 'WANGHAOYANG',
+  brideLatin: 'SUNYUYING',
+  weddingDate: '2026-9-19-11:58',
   dateDot: '2030 · 10 · 01',
   dateCn: '2030年10月1日 · 星期二',
   calendarMonth: 'OCT',
   calendarDay: '01',
   calendarYear: '2030',
-  venue: '示例市幸福区星露谷宴会厅',
-  venueShort: '星露谷宴会厅',
+  venue: '北京市朝阳区三里屯聚德楼',
+  venueShort: '聚德楼',
   navigationUrl: 'https://uri.amap.com/search?keyword=%E7%A4%BA%E4%BE%8B%E5%B8%82%E5%B9%B8%E7%A6%8F%E5%8C%BA%E6%98%9F%E9%9C%B2%E8%B0%B7%E5%AE%B4%E4%BC%9A%E5%8E%85&src=stardew-wedding&callnative=1',
   schedule: [
     { label: '签到', time: '待确认', description: '领取今日任务，与老朋友相见' },

@@ -5,7 +5,7 @@ const weddingConfig = {
   bride: '孙玉莹',
   groomLatin: 'WHY',
   brideLatin: 'SYY',
-  weddingDate: '2026-09-19-10:58',
+  weddingDate: '2026-09-19T10:58:00+08:00',
   dateDot: '2026 · 09 · 19',
   dateCn: '2026年9月19日 · 星期六',
   calendarMonth: 'SEP',
